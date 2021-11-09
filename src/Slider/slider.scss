@@ -1,0 +1,110 @@
+.reference{
+   background: #241E6B;
+   border: 1px solid #707070;
+   margin-top: 5vh;
+   padding: 8vh;
+   margin-bottom: 5vh;
+
+   h3{
+      color:#fff;
+      font-size: 2rem;
+      padding: 1rem 0 1.5rem;
+   }
+   @include mediaSmall{
+      padding: 1.5rem 1.5rem 2.5rem;
+      h3{
+         padding: .5rem 0 1rem;
+      }
+   }
+
+   .cards-container{     
+      position: relative;
+      .swiper-pagination{
+         position: absolute;
+         bottom: -35px;
+      }
+      .swiper-pagination-bullet{
+        background-color: #2EE1C8;
+      }
+      .prev,.next{
+         position: absolute;
+         top: 50%;
+         transform: translateY(-50%);
+         img{
+            width: 50px;
+            height: 50px;
+            @include mediaSmall{
+               
+               width: 36px;
+               height: 36px;
+            }
+         }
+      }
+      .prev {         
+         left: -50px;   
+       }
+       
+       .next {         
+         right: -50px;         
+       } 
+       @include mediaSmall{
+          padding: .8rem;
+         .prev {         
+            left: -30px;  
+            margin-left: 1rem; 
+            z-index: 99;
+          }
+          
+          .next {         
+            right: -30px; 
+            margin-right: 1rem;
+            z-index: 99;        
+          } 
+
+       }
+      .my-card{
+         
+         background-color: #fff;
+         border-radius: 5px;
+         padding:1.5rem;
+
+         
+         .card-content{
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: flex-start;
+            align-items: center;
+            
+            .img{
+               width: 62px;
+               height: 62px;
+               border-radius: 50%;
+            }
+            .title{
+               padding: 1rem;
+               text-align: center;
+            }
+         }
+         p{
+            color:#8FAABE;
+            font-size: .9rem;
+            margin: 0;
+            text-align: left;
+         }
+         .stars{
+            display: flex;
+            justify-content: flex-start;
+            margin-top: 1rem;
+            img{
+               width: 22px;
+               height: 22px;
+               margin-right: .5rem;
+            }
+         }
+
+      }
+
+   }
+   
+
+}

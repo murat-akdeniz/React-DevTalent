@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg824"
+   width="22.666668"
+   height="22.666668"
+   viewBox="0 0 22.666668 22.666668"
+   sodipodi:docname="star.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs828" />
+  <sodipodi:namedview
+     id="namedview826"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="33.838233"
+     inkscape:cx="11.333334"
+     inkscape:cy="5.0977839"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1012" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g830">
+    <g
+       id="g1012">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.24828"
+         d="M 3.2480852,18.756626 C 3.7331431,15.724101 3.3561643,13.995511 1.9519014,12.813131 -1.2199814,10.142425 -0.451092,7.6817552 3.5553101,7.6817552 c 2.7889133,0 3.7560179,-0.697039 4.3611972,-3.1433257 1.0033053,-4.05561156 4.1754157,-4.05561156 5.1787207,0 0.605178,2.4462867 1.572285,3.1433257 4.361197,3.1433257 4.006402,0 4.775291,2.4606698 1.603409,5.1313758 -1.404263,1.18238 -1.781243,2.91097 -1.296184,5.943495 0.633644,3.961469 0.48294,4.209563 -2.047587,3.370787 -3.470763,-1.150427 -6.9496274,-1.150427 -10.4203902,0 -2.530527,0.838776 -2.6812321,0.590682 -2.0475876,-3.370787 z"
+         id="path1014" />
+    </g>
+  </g>
+</svg>
